@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="icon_size">28dp</dimen>
+    <dimen name="standard_margin">16dp</dimen>
+    <dimen name="left_margin">50dp</dimen>
+    <dimen name="text_size">16sp</dimen>
+    <dimen name="margin_between_icon_text">8dp</dimen>
+    <dimen name="text_size_name">10sp</dimen>
+</resources>

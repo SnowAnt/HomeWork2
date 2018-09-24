@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Anton Pepelyaev</string>
+    <string name="position">Head of direction</string>
+    <string name="description">As the head of the Department,Anton is engaged in the creation and automation of processes for consideration of clients \' appeals on the subject of \'Fraud\' and other non-transactional products.</string>
+    <string name="hint">Enter a message...</string>
+    <string name="but_name">SEND MESSAGE</string>
+    <string name="hello">Hello,Anton!</string>
+    <string name="not_found_email">No Email app found</string>
+    <string name="bottom_name">© 2018  Anton Pepelyaev</string>
+</resources>

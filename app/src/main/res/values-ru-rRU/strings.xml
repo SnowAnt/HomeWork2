@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Антон Пепеляев</string>
+    <string name="position">Руководитель направления</string>
+    <string name="description">В должности руководителя направления,Антон занимается созданием и автоматизацией процессов рассмотрения обращений клиентов по тематике \'Мошенничество\' и других нетранзакционных продуктов.</string>
+    <string name="hint">Введите сообщение...</string>
+    <string name="but_name">ОТПРАВИТЬ СООБЩЕНИЕ</string>
+    <string name="hello">Привет,Антон!</string>
+    <string name="not_found_email">Отсутствует приложение для отправки EMAIL</string>
+    <string name="bottom_name">© 2018 Антон Пепеляев</string>
+</resources>
