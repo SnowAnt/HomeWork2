@@ -7,4 +7,8 @@
     <string name="hello">Hello,Anton!</string>
     <string name="not_found_email">No Email app found</string>
     <string name="bottom_name">© 2018  Anton Pepelyaev</string>
+    <string name="menu_action_author">Author</string>
+    <string name="date_format">MMM dd,hh:mm a</string>
+    <string name="todo">TODO</string>
+    <string name="news">News</string>
 </resources>

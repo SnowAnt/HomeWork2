@@ -6,4 +6,11 @@
     <dimen name="text_size">16sp</dimen>
     <dimen name="margin_between_icon_text">8dp</dimen>
     <dimen name="text_size_name">10sp</dimen>
+    <dimen name="card_view_height">180dp</dimen>
+    <dimen name="margin_between_card_view">4dp</dimen>
+    <dimen name="full_text_news_detail_txt_size">14sp</dimen>
+    <dimen name="publish_date_news_detail_txt_size">12sp</dimen>
+    <dimen name="publish_date_new_top_margin">8dp</dimen>
+    <dimen name="header_news_detail_txt_size">22sp</dimen>
+    <dimen name="image_size_card">100dp</dimen>
 </resources>
