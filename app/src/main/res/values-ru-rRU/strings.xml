@@ -8,4 +8,8 @@
     <string name="hello">Привет,Антон!</string>
     <string name="not_found_email">Отсутствует приложение для отправки EMAIL</string>
     <string name="bottom_name">© 2018 Антон Пепеляев</string>
+    <string name="menu_action_author">Автор</string>
+    <string name="date_format">HH:mm dd:MMM</string>
+    <string name="todo">TODO</string>
+    <string name="news">News</string>
 </resources>

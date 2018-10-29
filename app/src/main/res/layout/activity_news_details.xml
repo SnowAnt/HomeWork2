@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    tools:context=".NewsDetailsActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/image_news_detail_img"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            tools:ignore="ContentDescription"
+            tools:src="@drawable/anton" />
+
+        <TextView
+            android:id="@+id/header_news_detail_txt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/image_news_detail_img"
+            android:layout_marginEnd="@dimen/standard_margin"
+            android:layout_marginStart="@dimen/standard_margin"
+            android:layout_marginTop="@dimen/standard_margin"
+            android:textColor="@color/colorBlack"
+            android:textSize="@dimen/header_news_detail_txt_size" />
+
+        <TextView
+            android:id="@+id/publish_date_news_detail_txt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/header_news_detail_txt"
+            android:layout_marginEnd="@dimen/standard_margin"
+            android:layout_marginStart="@dimen/standard_margin"
+            android:layout_marginTop="@dimen/publish_date_new_top_margin"
+            android:textSize="@dimen/publish_date_news_detail_txt_size" />
+
+        <TextView
+            android:id="@+id/full_text_news_detail_txt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/publish_date_news_detail_txt"
+            android:layout_marginEnd="@dimen/standard_margin"
+            android:layout_marginStart="@dimen/standard_margin"
+            android:layout_marginTop="@dimen/standard_margin"
+            android:textColor="@color/colorBlack"
+            android:textSize="@dimen/full_text_news_detail_txt_size" />
+
+
+    </RelativeLayout>
+
+</ScrollView>
